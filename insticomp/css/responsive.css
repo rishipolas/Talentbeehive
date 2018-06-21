@@ -1,0 +1,9 @@
+@media (max-width: 480px)
+{
+.form-inline .form-control {
+    height: 50px;
+    width: 100%;
+	  color: #333;
+    
+}
+}
